@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e87921b7-1745-4267-8f77-819c6abae313" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Dev\Maven\repository_boot" />
+        <option name="mavenHome" value="D:/Dev/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Dev\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1WBLpHZ6goynWPkrRG8jVC5ZFTu" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/cn/itcast/domain" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.Mapper" />
+      <recent name="cn.itcast.Service.Impl" />
+      <recent name="cn.itcast.Service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_EE\ssm_version\src\main\java\cn\itcast\domain" />
+      <recent name="E:\Java_EE\ssm_version\src\main\java\cn\itcast\Mapper" />
+      <recent name="E:\Java_EE\ssm_version\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.controller.Test">
+    <configuration name="controller.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm_version" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.Controller" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.Controller.controller" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controller.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm_version" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.Controller" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.Controller.controller" />
+      <option name="METHOD_NAME" value="Test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.controller.Test" />
+        <item itemvalue="JUnit.controller.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringConfigurationTabSettings">
+    <option name="sortAlpha" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e87921b7-1745-4267-8f77-819c6abae313" name="Default Changelist" comment="" />
+      <created>1578618222036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578618222036</updated>
+      <workItem from="1578618225753" duration="4146000" />
+      <workItem from="1578638089988" duration="6549000" />
+      <workItem from="1578706154436" duration="5046000" />
+      <workItem from="1578829873091" duration="3506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="196" key="#com.intellij.ide.util.MemberChooser" timestamp="1578833069883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="196" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578833069883" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578829901896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578829901896" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1578830046666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578830046666" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1578833396187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578833396187" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1578833396187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578833396187" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1578833396187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578833396187" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1578833396187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578833396187" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1578641496879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578641496879" />
+    <state x="334" y="126" key="new project wizard" timestamp="1578706656103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="126" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578706656103" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578830141662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578830141662" />
+    <state x="640" y="118" key="spring file set editor" timestamp="1578641493506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="118" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1578641493506" />
+  </component>
+</project>
