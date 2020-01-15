@@ -1,5 +1,6 @@
+cn\itcast\Mapper\UserMapper.class
 cn\itcast\Service\Impl\UserServiceImpl.class
+cn\itcast\domain\User.class
+cn\itcast\Controller\UserController.class
 cn\itcast\Service\UserService.class
 cn\itcast\domain\ys.class
-cn\itcast\Mapper\UserMapper.class
-cn\itcast\Controller\UserController.class
