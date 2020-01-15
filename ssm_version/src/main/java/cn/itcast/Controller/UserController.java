@@ -21,6 +21,7 @@ public class UserController {
     @RequestMapping("/save")
     public String save(User user) throws Exception {
         service.save(user);
+        System.out.println("新患者保存成功");
         return "/pages/subscribe-form";
     }
 
