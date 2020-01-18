@@ -1,6 +1,8 @@
 com\itheima\domain\User.class
+com\itheima\service\Impl\UserServiceImpl.class
 com\itheima\service\UserService.class
 com\itheima\domain\Book.class
+com\itheima\interceptor\UserInterceptor.class
 com\itheima\domain\Category.class
 com\itheima\utils\PageBean.class
 com\itheima\controller\UserController.class

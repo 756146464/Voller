@@ -9,8 +9,5 @@
         <module name="itheima_ssm" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="itheima_ssm" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

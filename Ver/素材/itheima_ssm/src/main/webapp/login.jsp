@@ -103,7 +103,7 @@ font {
 					<font>会员登录</font>USER LOGIN
 					<div style="color: red">
 					</div>
-					<form class="form-horizontal" method="post" action="/WEB04_user/login">
+					<form class="form-horizontal" method="post" action="User/login.do">
 						<div class="form-group" style="width:500px">
 							<label for="username" class="col-sm-2 control-label">用户名</label>
 							<div class="col-sm-6">
