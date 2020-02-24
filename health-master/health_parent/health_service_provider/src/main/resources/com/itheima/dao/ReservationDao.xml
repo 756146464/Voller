@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.itheima.dao.ReservationDao">
+
+
+    <!--查询所有预约信息-->
+    <select id="findAll" resultType="com.itheima.pojo.Reservation">
+     select m.`name`,m.phoneNumber,o.orderDate,o.orderType,o.orderStatus,s.`name`
+      from t_member m,t_order o,t_setmeal s
+       WHERE
+        o.member_id = m.id and s.id = o.setmeal_id
+    </select>
+
+    <!--分页查询-->
+    <select id="findPage" parameterType="String" resultType="com.itheima.pojo.Reservation">
+        select
+        m.`name`,
+        m.phoneNumber,
+        o.orderDate,
+        o.orderType,
+        o.orderStatus,
+        s.`name`
+        from
+        t_member m,
+        t_order o,
+        t_setmeal s
+        WHERE
+        o.member_id = m.id
+        and
+        s.id = o.setmeal_id
+        <if test="dateMin !=null">
+            and o.orderDate &gt;= #{dateMin}
+        </if>
+        <if test="dateMax ！= null">
+            and o.orderDate &lt;= #{dateMax}
+        </if>
+        <if test="orderType != null">
+            and o.orderType = #{orderType}
+        </if>
+        <if test="orderStatus !=null">
+            and o.orderStatus = #{orderStatus}
+        </if>
+        <if test="name !=null">
+            and s.name = #{name}
+        </if>
+    </select>
+
+    <!-- 编辑-->
+    <update id="edit" parameterType="com.itheima.pojo.Reservation">
+
+    </update>
+
+
+    <!--通过id查询预约信息-->
+    <select id="findById" parameterType="int" resultType="com.itheima.pojo.Reservation">
+
+    </select>
+
+
+    <!--添加预约信息-->
+    <insert id="add" parameterType="com.itheima.pojo.Reservation">
+
+    </insert>
+
+    <!--删除预约信息-->
+    <delete id="delete" parameterType="int">
+
+    </delete>
+
+    <!--根据预约信息id查询套餐ids-->
+    <select id="findSetmealIdsByReservationId" parameterType="int" resultType="int">
+
+    </select>
+</mapper>

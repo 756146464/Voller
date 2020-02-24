@@ -1,7 +1,0 @@
-cn\itcast\domain\User.class
-cn\itcast\service\impl\UserServiceImpl.class
-cn\itcast\mapper\UserMapper.class
-cn\itcast\domain\Book.class
-cn\itcast\controller\UserController.class
-cn\itcast\domain\Category.class
-cn\itcast\service\UserService.class
